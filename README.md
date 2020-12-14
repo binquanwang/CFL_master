@@ -60,7 +60,13 @@ python unsupervised_train.py --data DUKE --gpu [CHOOSE WHICH GPU TO RUN] \
 
 ### Code link
 
-the link to the specific code of each comparison method [ECN](https://github.com/zhunzhong07/ECN)
+the link to the specific code of each comparison method [ECN](https://github.com/zhunzhong07/ECN) \
+ [PAUL](https://github.com/QizeYang/PAUL) \
+ [HHL](https://github.com/zhunzhong07/HHL) \
+ [MAR](https://github.com/KovenYu/MAR) \
+ [BUC](https://github.com/L1aoXingyu/Bottom-up-Clustering-Person-Re-identification) \
+ [PCB-PAST](https://github.com/zhangxinyu-xyz/PAST-ReID) \
+ 
 
 
 
